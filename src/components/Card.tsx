@@ -1,0 +1,44 @@
+// react
+import { FC } from "react";
+
+interface CardProps {
+  imgSrc: string;
+  title: string;
+  description: string;
+  link: string;
+  tech: string;
+}
+
+const Card: FC<CardProps> = ({ imgSrc, title, description, link, tech }) => {
+  return (
+    <a href={link} target="_blank">
+    <div
+      className="relative group flex items-center justify-center py-12 px-8 bg-accent
+     hover:bg-hoverPrimary flex-1 cursor-pointer h-[330px] xs:h-[290px] min-w-fit sm:min-w-[330px]
+      max-w-[448px] rounded-2xl overflow-hidden transition-all duration-700 ease-in-out"
+    >
+      <img
+        src={imgSrc}
+        alt=""
+        className="transition-all duration-700 backdrop-blur-0 group-hover:scale-100 ease-in-out max-h-[200px]"
+      />
+
+      <p
+        className="text-textPrimary absolute -top-10 left-1/2 -translate-x-1/2 opacity-0 group-hover:top-0.5 group-hover:opacity-100
+      transition-all duration-700 ease-in-out text-center w-full px-8 text-base sm:text-lg z-10 [text-shadow:_0_4px_4px_rgb(0_0_0_/_50%)]"
+      >
+        {title}
+      </p>
+
+      <p
+        className="text-textPrimary absolute -bottom-10 left-1/2 -translate-x-1/2 opacity-0 group-hover:bottom-0.5 group-hover:opacity-100
+      transition-all duration-700 ease-in-out text-center w-full px-8 text-base sm:text-lg z-10 [text-shadow:_0_4px_4px_rgb(0_0_0_/_50%)]"
+      >
+        {tech}
+      </p>
+    </div>
+    </a>
+  );
+};
+
+export default Card;
