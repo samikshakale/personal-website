@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce7f1158.css",
-    "main.js": "/static/js/main.144447af.js",
-    "static/media/projects-page.svg": "/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
-    "static/media/othello.png": "/static/media/othello.7ceb81f315c60a8c69e7.png",
-    "static/media/about-me-page.svg": "/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
-    "static/media/home-page.svg": "/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
-    "static/media/github_stats.png": "/static/media/github_stats.0f3c13d3ed41c3de96bf.png",
-    "static/media/movie_review.png": "/static/media/movie_review.68323d35a540fb48709d.png",
-    "static/media/tableau_dashboard.png": "/static/media/tableau_dashboard.aa74808e96690b13b87d.png",
-    "static/media/chrome_extension.png": "/static/media/chrome_extension.c50c6319b91154e9616e.png",
-    "static/media/about-illustration.svg": "/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
-    "static/media/credit_card.png": "/static/media/credit_card.87b8832feb583acc6065.png",
-    "static/media/contact-page.svg": "/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
-    "static/media/contact-illustration.svg": "/static/media/contact-illustration.309107b7faed5e5dd0680a8772fd9feb.svg",
-    "static/media/hero-illustration.svg": "/static/media/hero-illustration.70b54107e0c76f2b14efa9e9fc862fd9.svg",
-    "static/media/icons8-github.svg": "/static/media/icons8-github.ce7af719c3d7d9f2e73211ab59f5ab58.svg",
-    "index.html": "/index.html",
-    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
-    "static/media/email-icon.svg": "/static/media/email-icon.7f484109f6a323b3b1b32e0db563b71c.svg",
-    "static/media/icons8-linkedin (1).svg": "/static/media/icons8-linkedin (1).d746aed10cc5f41dee1a031fd74686c3.svg",
-    "main.ce7f1158.css.map": "/static/css/main.ce7f1158.css.map",
-    "main.144447af.js.map": "/static/js/main.144447af.js.map"
+    "main.css": "/personal-website/static/css/main.ce7f1158.css",
+    "main.js": "/personal-website/static/js/main.603daccb.js",
+    "static/media/projects-page.svg": "/personal-website/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
+    "static/media/othello.png": "/personal-website/static/media/othello.7ceb81f315c60a8c69e7.png",
+    "static/media/about-me-page.svg": "/personal-website/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
+    "static/media/home-page.svg": "/personal-website/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
+    "static/media/github_stats.png": "/personal-website/static/media/github_stats.0f3c13d3ed41c3de96bf.png",
+    "static/media/movie_review.png": "/personal-website/static/media/movie_review.68323d35a540fb48709d.png",
+    "static/media/tableau_dashboard.png": "/personal-website/static/media/tableau_dashboard.aa74808e96690b13b87d.png",
+    "static/media/chrome_extension.png": "/personal-website/static/media/chrome_extension.c50c6319b91154e9616e.png",
+    "static/media/about-illustration.svg": "/personal-website/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
+    "static/media/credit_card.png": "/personal-website/static/media/credit_card.87b8832feb583acc6065.png",
+    "static/media/contact-page.svg": "/personal-website/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
+    "static/media/contact-illustration.svg": "/personal-website/static/media/contact-illustration.309107b7faed5e5dd0680a8772fd9feb.svg",
+    "static/media/hero-illustration.svg": "/personal-website/static/media/hero-illustration.70b54107e0c76f2b14efa9e9fc862fd9.svg",
+    "static/media/icons8-github.svg": "/personal-website/static/media/icons8-github.ce7af719c3d7d9f2e73211ab59f5ab58.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/download-btn-icon.svg": "/personal-website/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "static/media/email-icon.svg": "/personal-website/static/media/email-icon.7f484109f6a323b3b1b32e0db563b71c.svg",
+    "static/media/icons8-linkedin (1).svg": "/personal-website/static/media/icons8-linkedin (1).d746aed10cc5f41dee1a031fd74686c3.svg",
+    "main.ce7f1158.css.map": "/personal-website/static/css/main.ce7f1158.css.map",
+    "main.603daccb.js.map": "/personal-website/static/js/main.603daccb.js.map"
   },
   "entrypoints": [
     "static/css/main.ce7f1158.css",
-    "static/js/main.144447af.js"
+    "static/js/main.603daccb.js"
   ]
 }
